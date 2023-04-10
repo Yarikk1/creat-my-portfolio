@@ -15,9 +15,7 @@ const Footer = () => {
       <Behance />
       <Twitter />
       <Dribbble />
-      <div className="Scroll">
-        <Scroll />
-      </div>
+      <Scroll className="Footer-scroll" />
     </div>
   );
 };
