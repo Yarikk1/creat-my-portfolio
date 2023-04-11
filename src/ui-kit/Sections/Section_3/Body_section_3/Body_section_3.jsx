@@ -10,23 +10,23 @@ import Col_block_book from "../IMG_section_3/Col-block-book.png";
 const Body_section_3 = () => {
   return (
     <div className="Body_section_3">
-      <div className="Body_mean">
-        <img src={Col_block_mean}></img>
+      <div className="Mean_section_3">
+        <img src={Col_block_mean} width={380} height={425}></img>
       </div>
       <div className="Body_eshtetic">
-        <img src={Col_block_eshtetic}></img>
+        <img src={Col_block_eshtetic} width={380} height={425}></img>
       </div>
       <div className="Body_cod">
-        <img src={Col_block_cod}></img>
+        <img src={Col_block_cod} width={380} height={319}></img>
       </div>
       <div className="Body_milk">
-        <img src={Col_block_milk}></img>
+        <img src={Col_block_milk} width={380} height={425}></img>
       </div>
       <div className="Body_sheme">
-        <img src={Col_block_sheme}></img>
+        <img src={Col_block_sheme} width={380} height={312}></img>
       </div>
       <div className="Body_book">
-        <img src={Col_block_book}></img>
+        <img src={Col_block_book} width={380} height={531}></img>
       </div>
     </div>
   );

@@ -1,9 +1,10 @@
 .Header_section_3{
     width: 100%;
-    height: 100%;
+    height: 300px;
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: aquamarine;
 }
 
 .title_section_3{
@@ -19,7 +20,9 @@
     display: flex;
     margin-top: 50px;
     width: 700px;
+    height: 100px;
     justify-content: space-between;
+    background-color: blue;
 }
 
 .All_subtitle_section_3{

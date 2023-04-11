@@ -18,8 +18,8 @@ const Content = () => {
           Scroll down and get to know me,
         </h4>
       </div>
-      <div className="Img">
-        <img src="https://sun9-80.userapi.com/impg/4YWXHsgA-cQ2o1Kk-VjBBUkvrArKEIAKB_rjdw/LuULrEK8jLM.jpg?size=810x1080&quality=95&sign=d3200fac624fd2b814b913fce038f4c8&type=album" />
+      <div className="Img-Im">
+        <img src="https://sun9-80.userapi.com/impg/4YWXHsgA-cQ2o1Kk-VjBBUkvrArKEIAKB_rjdw/LuULrEK8jLM.jpg?size=810x1080&quality=95&sign=d3200fac624fd2b814b913fce038f4c8&type=album" width={350} height={450}/>
       </div>
     </div>
   );

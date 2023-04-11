@@ -6,7 +6,7 @@ const Header_section_3 = () => {
   return (
     <div className="Header_section_3">
       <div className="title_section_3">
-        <h>Porfolio</h>
+        <h>Portfolio</h>
       </div>
       <div className="subtitle_section_3">
         <div className="All_subtitle_section_3">All</div>

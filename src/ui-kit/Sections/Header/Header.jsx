@@ -6,7 +6,7 @@ import "./Header.css";
 const Header = () => {
   return (
     <div className="Header">
-      <h1 className="Header-name">Tereshko Yaroslav.</h1>
+      <h1 className="Header-name">Tereshko Yaroslav</h1>
       <div className="Header-menu">
       <Menu />
       </div>
