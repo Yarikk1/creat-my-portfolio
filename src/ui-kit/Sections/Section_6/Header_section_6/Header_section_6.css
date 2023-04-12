@@ -1,0 +1,9 @@
+.Blog_section_6{
+    display: flex;
+    justify-content: center;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    font-size: 44px;
+    color: rgba(51, 51, 51, 1);
+
+}

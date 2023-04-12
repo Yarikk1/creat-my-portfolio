@@ -7,8 +7,10 @@ import SectionWrapper from "../../SectionWrapper/SectionWrapper";
 const Sections_3 = () => {
   return (
     <SectionWrapper>
+      <div className="Section_3">
       <Header_section_3 />
       <Body_section_3 />
+      </div>
     </SectionWrapper>
   );
 };
